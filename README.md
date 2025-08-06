@@ -2,7 +2,7 @@ Bike Sales Dashboard
 
 This project provides a comprehensive analysis of bike purchase behavior based on various demographic and lifestyle factors. The dashboard was created using Excel and presents visual insights into how income, age, gender, commuting distance, and other characteristics influence bike purchasing decisions.
 
-#Dashboard Overview
+Dashboard Overview
 
 The dashboard includes the following key visualizations:
 
