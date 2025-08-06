@@ -2,6 +2,39 @@ Bike Sales Dashboard
 
 This project provides a comprehensive analysis of bike purchase behavior based on various demographic and lifestyle factors. The dashboard was created using Excel and presents visual insights into how income, age, gender, commuting distance, and other characteristics influence bike purchasing decisions.
 
+Key Performance Indicators (KPIs)
+
+1. Average Income of Bike Buyers
+KPI Name: Avg. Income of Customers Who Purchased a Bike
+Value:
+Females: £55,774.06
+Males: £60,123.97
+Insight: Bike buyers have higher average income compared to non-buyers, with males having the highest average.
+
+2. Bike Purchase Rate by Gender
+KPI Name: Gender-Based Bike Purchase Income Gap
+Value:
+Income Gap for Females: £55,774.06 - £53,440.00 = £2,334.06
+Income Gap for Males: £60,123.97 - £56,208.18 = £3,915.79
+Insight: Higher-income individuals (both male and female) are more likely to purchase bikes.
+
+ Commute Distance vs. Bike Purchase Count
+KPI Name: Highest Bike Purchases by Commute Range
+Value:
+Top Distance Range (Bike Purchases): 0–1 Miles (approx. 200 buyers)
+Insight: Most bike buyers live close to work (0–1 miles), indicating proximity influences purchase decisions.
+
+4. Drop-off Rate in Purchases with Distance
+KPI Name: Purchase Drop-off Rate Beyond 5 Miles
+Observation: Bike purchases steadily decline as commute distance increases.
+Insight: Marketing efforts should focus more on customers with shorter commute distances.
+
+5. Age Bracket Purchase Distribution
+KPI Name: Highest Bike Purchases by Age Group
+Value:
+Top Age Group: Middle Aged (approx. 400 buyers)
+Insight: Middle-aged customers are the most likely to purchase bikes
+
 Dashboard Overview
 
 The dashboard includes the following key visualizations:
